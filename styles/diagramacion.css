@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#principal{
+    width: 960px;
+    height: 900px;
+    margin: 0px auto;
+    background: black;
+}
+
+header{
+    width: 960px;
+    height: 200px;
+    background: rgb(229, 227, 227); 
+
+}
+nav{
+    width: 960px;
+    height: 100px;
+    background: rgb(192, 194, 197); 
+
+}
+#izq{
+    width: 400px;
+    height: 550px;
+    background: rgba(70, 105, 174, 0.942);
+    float: left;
+   
+
+}
+#der{
+    width: 460px;
+    height: 550px;
+    background: rgba(70, 105, 174, 0.942);
+    float: left;  
+
+}
+aside {
+    width: 100px;
+    height: 550px;
+    background: rgba(70, 105, 174, 0.942);
+    float: left; 
+} 
+#caja{
+    width: 350px;
+    height: 450px;
+    background: rgb(155, 174, 214);
+    margin-left: 25px; 
+    margin-top: 55px;
+    border-radius: 20px;
+
+}
+
+footer{
+    width: 960px;
+    height: 50px;
+    background: rgb(80, 107, 148);
+    float: left;  
+
+}
